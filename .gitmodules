@@ -1,3 +1,6 @@
 [submodule "catalyst"]
 	path = catalyst
 	url = https://github.com/m-s-will/catalyst.git
+[submodule "cam"]
+	path = cam
+	url = https://github.com/m-s-will/cam.git
