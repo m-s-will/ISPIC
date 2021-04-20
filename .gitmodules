@@ -4,3 +4,9 @@
 [submodule "cam"]
 	path = cam
 	url = https://github.com/m-s-will/cam.git
+[submodule "flecsale"]
+	path = flecsale
+	url = https://github.com/m-s-will/flecsale.git
+[submodule "vpic"]
+	path = vpic
+	url = https://github.com/m-s-will/vpic.git
