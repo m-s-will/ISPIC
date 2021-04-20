@@ -4,7 +4,8 @@ This project provides multiple Docker containers integrated with in situ framewo
 ## Source Code structure
 This repository is intended as a hub. 
 The actual codes are organized in submodules as follows:
-.
+
+    .
     ├── README.md               # the file you are currently reading
     ├── paraview_catalyst       # directory for the ParaView Catalyst workflows
     │   ├── cam                 # submodule for the Community Atmosphere Model
