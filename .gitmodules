@@ -10,3 +10,6 @@
 [submodule "paraview_catalyst/catalyst"]
 	path = paraview_catalyst/catalyst
 	url = https://github.com/m-s-will/catalyst.git
+[submodule "ascent/clover"]
+	path = ascent/clover
+	url = https://github.com/m-s-will/clover
