@@ -13,3 +13,6 @@
 [submodule "ascent/clover"]
 	path = ascent/clover
 	url = https://github.com/m-s-will/clover
+[submodule "ascent/nyx"]
+	path = ascent/nyx
+	url = https://github.com/m-s-will/nyx
